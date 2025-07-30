@@ -1,0 +1,102 @@
+.dashboard {
+    .header {
+        background-color: #1a1a2e;
+        height: 60px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .header-title {
+        color: #FFFFFF;
+        font-size: 25px;
+        font-weight: 600;
+        padding-top: 10px;
+        padding-left: 20px;
+    }
+
+    .profile-image {
+        height: 130px;
+        width: 130px;
+        border-radius: 50%;
+    }
+
+    .token-block {
+        background-color: #E94560;
+        width: 10%;
+        height: 80px;
+        border-radius: 10px;
+    }
+
+    .token-title {
+        color: #FFFFFF;
+        font-size: 1.2em;
+        font-weight: 600;
+        text-align: center;
+        padding-top: 10px;
+    }
+
+    .token-value {
+        color: #FFFFFF;
+        font-size: 1.5em;
+        font-weight: 700;
+        text-align: center;
+        padding-top: 0px;
+    }
+
+    .job-card {
+        background-color: #FFFFFF;
+        border: 1px solid #E0E0E0;
+        border-radius: 8px;
+        padding: 16px;
+        margin: 12px 0;
+        box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .job-title {
+        font-size: 1.2em;
+        font-weight: 600;
+        margin-bottom: 8px;
+    }
+
+    .job-description {
+        font-size: 1em;
+        font-weight: 400;
+        margin-bottom: 8px;
+    }
+
+    .apply-button {
+        background-color: #E94560;
+        color: #FFFFFF;
+        border: none;
+        padding: 8px 16px;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+    .buy-token-button {
+        background-color: #28a745;
+        color: #FFFFFF;
+        border: none;
+        padding: 8px 16px;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+    .small-profile-image {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        margin-top: 10px;
+        margin-right: 20px;
+        cursor: pointer;
+    }
+
+    .opacity {
+        font-weight: 600;
+        font-size: 16px;
+    }
+
+    .add-button {
+        height: 40px;
+    }
+}
