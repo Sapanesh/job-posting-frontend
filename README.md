@@ -55,7 +55,7 @@ Runs on: `http://localhost:3000`
 
 ## 📽️ Optional Demo
 
-\[Include Loom video link here if recorded]
+https://www.loom.com/share/a819caeccdad45c08545d028f920c476?sid=9fb8a457-ec0c-40fc-915f-bbcb1bb67503
 
 ---
 
